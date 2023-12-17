@@ -1,22 +1,25 @@
 <h1 align="center">Hi 👋, I'm Alper Özdemir</h1>
 <h3 align="center">An ambitious game developer from Turkey</h3>
 
-- 🔭 I’m currently working on [Online chatting app](https://github.com/AlperOzdmir/FaceApp)
+- 🔭 I’m currently working on [My Graduation Project](https://github.com/AlperOzdmir/FaceApp)
 
-- 🌱 I’m currently learning **Unity3D**
+- 🌱 I’m currently learning **OpenCV**
 
-- 💬 Ask me about **Unity2D, Mobile Games**
+- 💬 Ask me about **Unity, Mobile Games**
 
 - 📫 How to reach me **aalper.ozdemirr@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/alper özdemir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alper özdemir" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/alper-%C3%B6zdemir-219288207/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Alper Özdemir" height="30" width="40" /></a>
+</p>
+<p align="left">
+<a href="https://www.instagram.com/alper__ozdmir?igshid=YTQwZjQ0NmI0OA==" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Alper Özdemir" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Check out my action game:</h3>
 <p align="left">
-<a href="https://play.google.com/store/apps/details?id=com.Tegralyn.ThunderSamurai&hl=en&gl=US" target="blank"><img align="center" src="https://play-lh.googleusercontent.com/ZJPrK3NiJEgy-qpyCMJOlWhQEj2XFYQF82sF4C6BGcIX1g_EyCvqWOvj8FEOtW45qA" alt="Thunder Samurai Defend Village" height="30" width="40" /></a>
+<a href="https://play.google.com/store/apps/details?id=com.Tegralyn.ThunderSamurai&hl=en&gl=US" target="_blank"><img align="center" src="https://play-lh.googleusercontent.com/ZJPrK3NiJEgy-qpyCMJOlWhQEj2XFYQF82sF4C6BGcIX1g_EyCvqWOvj8FEOtW45qA" alt="Thunder Samurai Defend Village" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
