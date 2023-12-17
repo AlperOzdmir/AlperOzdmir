@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alper Özdemir</h1>
 <h3 align="center">An ambitious developer from Turkey</h3>
 
-- 🔭 I’m currently working on [My Graduation Project](https://github.com/AlperOzdmir/FaceApp)
+- 🔭 I’m currently working on **My graduation project**
 
 - 🌱 I’m currently learning **OpenCV**
 
