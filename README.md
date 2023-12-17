@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **OpenCV**
 
-- 💬 Ask me about **Unity, Mobile Games**
+- 💬 Ask me about **Unity, Mobile Games, Flutter**
 
 - 📫 How to reach me **aalper.ozdemirr@gmail.com**
 
