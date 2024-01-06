@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alper Özdemir</h1>
-<h3 align="center">An ambitious game developer from Turkey</h3>
+<!-- <h3 align="center">An ambitious game developer from Turkey</h3> -->
 
 - 🔭 I’m currently working on **My graduation project**
 
