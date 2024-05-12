@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alper</h1>
 <h3 align="center">A passionate junior .NET developer from Turkey</h3>
+<p align="left"> <a>I graduated from the Computer Engineering Department of Marmara University. Besides my university education, I continue to improve myself with courses I took from Udemy and various projects I developed.</a> </p>
 
 - 🌱 I’m currently learning **ASP.NET MVC**
 
